@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1377904576 source:d:\alex\проекты\cg-hw\triangulation\main.cpp
+	<iostream>
+	<vector>
+	<cg/triangulation/triangle_side.h>
+	<cg/triangulation/ear_clipping_triangulation.h>
+	<cg/primitives/contour.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1377136200 source:d:\alex\проекты\cg-hw\intersect\main.cpp
+	<iostream>
+	<vector>
+	<cg/primitives/segment.h>
+	<cg/primitives/point.h>
+	<cg/primitives/range.h>
+	<cg/primitives/rectangle.h>
+	<cg/primitives/segment.h>
+	<cg/primitives/triangle.h>
+	<cg/primitives/vector.h>
+	<cg/primitives/contour.h>
+	<cg/operations/orientation.h>
+	<cg/operations/segment_point.h>
+	<cg/operations/triangle_point.h>
+	<cg/operations/contour_point.h>
+

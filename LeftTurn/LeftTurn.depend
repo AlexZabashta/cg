@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1377045183 source:d:\alex\проекты\cg-hw\leftturn\main.cpp
+	<iostream>
+	<limits>
+	"cg/io/point.h"
+	"cg/operations/orientation.h"
+
